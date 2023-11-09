@@ -1,0 +1,1 @@
+import{_ as t,a as e,o as a,c as n,b as s,i as r}from"./74bef960.js";const _={};function i(p,l){const o=e("AppLocal"),c=e("Layout");return a(),n(c,null,{default:s(()=>[r(o,{resource:"/admin/invoices-receive/",title:"Faturas à Receber"})]),_:1})}const f=t(_,[["render",i]]);export{f as default};

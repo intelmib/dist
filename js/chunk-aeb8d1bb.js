@@ -1,0 +1,1 @@
+import{_ as c,a as e,o as n,c as a,b as s,i as r}from"./74bef960.js";const _={};function p(l,i){const o=e("AppLocal"),t=e("Layout");return n(),a(t,null,{default:s(()=>[r(o,{resource:"/admin/employees",title:"Funcionários"})]),_:1})}const u=c(_,[["render",p]]);export{u as default};

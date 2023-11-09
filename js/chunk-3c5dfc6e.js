@@ -1,0 +1,1 @@
+import{_ as t,a as o,o as a,c as n,b as s,i as r}from"./74bef960.js";const p={};function _(u,l){const c=o("AppLocal"),e=o("Layout");return a(),n(e,null,{default:s(()=>[r(c,{resource:"/admin/groups/products"})]),_:1})}const f=t(p,[["render",_]]);export{f as default};

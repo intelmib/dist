@@ -1,0 +1,1 @@
+import{_ as r,a as e,o as a,c,b as s,i as n}from"./74bef960.js";const _={};function d(l,p){const o=e("AppLocal"),t=e("Layout");return a(),c(t,null,{default:s(()=>[n(o,{resource:"/admin/orders",risk:!0,hideCreateTable:!0,title:"Pedidos"})]),_:1})}const u=r(_,[["render",d]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as c,a as e,o as n,c as a,b as s,i as r}from"./74bef960.js";const _={};function l(p,i){const o=e("AppLocal"),t=e("Layout");return n(),a(t,null,{default:s(()=>[r(o,{resource:"/admin/clients",title:"Clientes"})]),_:1})}const f=c(_,[["render",l]]);export{f as default};
