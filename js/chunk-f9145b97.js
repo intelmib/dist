@@ -1,0 +1,1 @@
+import{d as o,r as s,o as n,c,w as a,a as r}from"./f91b3dfa.js";const i=r("div",{class:"flex min-h-screen items-center justify-center"}," SHOP MICHELE ",-1),u=o({__name:"index",setup(_){const e={title:"Shop",breadcrumbs:[{text:"Shop",href:"/shop"}]};return(p,m)=>{const t=s("Layout");return n(),c(t,{config:e},{default:a(()=>[i]),_:1})}}});export{u as default};
