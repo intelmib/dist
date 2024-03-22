@@ -1,0 +1,1 @@
+import{_ as t,r as e,o as a,c as n,w as r,e as s}from"./f6c51b9b.js";const _={};function p(l,m){const o=e("AppLocal"),c=e("Layout");return a(),n(c,null,{default:r(()=>[s(o,{resource:"/admin/docker-images",title:"Docker Images"})]),_:1})}const u=t(_,[["render",p]]);export{u as default};

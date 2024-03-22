@@ -1,0 +1,1 @@
+import{_ as c,r as e,o as s,c as a,w as n,e as r}from"./f6c51b9b.js";const l={};function _(i,p){const t=e("AppLocal"),o=e("Layout");return s(),a(o,null,{default:n(()=>[r(t,{resource:"/admin/clients-sites","hide-header":!1,"hide-create-table":!1,title:"Sites"})]),_:1})}const f=c(l,[["render",_]]);export{f as default};
