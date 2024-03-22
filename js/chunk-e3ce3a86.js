@@ -1,0 +1,1 @@
+import{_ as t,r as e,o as a,c as n,w as r,e as s}from"./7310d4a3.js";const _={};function p(l,u){const o=e("AppLocal"),c=e("Layout");return a(),n(c,null,{default:r(()=>[s(o,{resource:"/admin/charges",title:"Cobranças"})]),_:1})}const m=t(_,[["render",p]]);export{m as default};
